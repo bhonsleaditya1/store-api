@@ -8,6 +8,8 @@
   * express-async-errors
   
 ### Product Schema
+---
+
 ```javascript
 name:{
     type:String,
@@ -38,7 +40,7 @@ company:{
 }
 ```
 
-### Query Types Handled:
+### Query Type:
 * _featured_: true/false
 * _company_: <company_name>
 * _name_: <string_pattern>
